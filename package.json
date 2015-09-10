@@ -5,7 +5,8 @@
   "main": "./server.js",
   "scripts": {
     "test": "karma start karma.conf.js --no-auto-watch --single-run",
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "build:production": "webpack -p --devtool --progress"
   },
   "author": "Alon Valadji",
   "license": "MIT",

@@ -41,6 +41,8 @@ module.exports = {
             add: true
         }),
 
-        new webpack.optimize.CommonsChunkPlugin('vendors', 'js/[name].bundle.js')
+        new webpack.optimize.CommonsChunkPlugin('vendors', 'js/[name].bundle.js'),
+
+
     ]
 };
