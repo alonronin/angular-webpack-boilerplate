@@ -10,3 +10,6 @@ visit: `http://loclhost:8080`
 - dev server is based on express.js using webpack dev middleware
 - test using karma, chai mocha and sinon
 
+---
+
+feel free to fork, suggest, open issues or ask anything.
