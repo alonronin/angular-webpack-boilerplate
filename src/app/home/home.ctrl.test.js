@@ -1,5 +1,5 @@
 describe('Home controller', function(){
-    beforeEach(window.module('home'));
+    beforeEach(module('home'));
 
     beforeEach(inject(function (_$controller_, _$rootScope_, $q) {
         this.$controller = _$controller_;

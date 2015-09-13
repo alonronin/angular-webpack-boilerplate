@@ -1,5 +1,5 @@
 describe('Main controller', function(){
-    beforeEach(window.module('main'));
+    beforeEach(module('main'));
 
     beforeEach(inject(function (_$controller_, _$rootScope_, $q) {
         this.$controller = _$controller_;

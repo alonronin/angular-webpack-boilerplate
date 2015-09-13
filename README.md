@@ -9,4 +9,7 @@ visit: `http://loclhost:8080`
 ### Libs
 - dev server is based on express.js using webpack dev middleware
 - test using karma, chai mocha and sinon
+- angular-ui-router for routing
+
+I used my opinionated architecture here, however it is very easy to implement your own idea.
 
