@@ -13,3 +13,6 @@ visit: `http://loclhost:8080`
 
 I used my opinionated architecture here, however it is very easy to implement your own idea.
 
+---
+
+feel free to fork, suggest, open issues or ask anything.
